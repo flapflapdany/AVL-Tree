@@ -6,8 +6,6 @@
 #include <iostream>
 #include <vector>
 
-using std::size_t;
-using std::ostream;
 
 template<typename T>
 struct Node
